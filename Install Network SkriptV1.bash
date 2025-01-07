@@ -33,7 +33,7 @@ while true; do
             ;;
         2)
             echo -e "${GREEN}Starte die Cloud...${RESET}"
-            cd /home
+            cd /home/minecraft
 			sudo screen -S Cloud java -jar Cloud.jar nogui
             ;;
 		3)
