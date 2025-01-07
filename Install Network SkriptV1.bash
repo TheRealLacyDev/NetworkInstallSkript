@@ -33,7 +33,8 @@ while true; do
             ;;
         2)
             echo -e "${GREEN}Starte die Cloud...${RESET}"
-            sudo screen -S Cloud java -jar Cloud.jar nogui
+            cd /home
+			sudo screen -S Cloud java -jar Cloud.jar nogui
             ;;
 		3)
             echo -e "${GREEN}Installiere PHP...${RESET}"
