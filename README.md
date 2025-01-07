@@ -17,6 +17,8 @@ Starte das Skript mit:
 Das Skript wurde ausschließlich unter Debian 12 getestet. Die Funktionsfähigkeit auf anderen Betriebssystemen kann nicht garantiert werden.
 Es ist möglich, dass die im Skript hinterlegten Versionen nicht immer auf dem neuesten Stand sind. In diesem Fall können die Versionsangaben mit einem Texteditor einfach angepasst werden.
 
+Für die Cloud-Server-Startfunktion müssen der Pfad und der Dateiname im Skript angepasst werden. Der Standardpfad ist /home/minecraft. Bitte passen Sie diese Werte entsprechend an, um eine ordnungsgemäße Funktion zu gewährleisten.
+
 📬 Unterstützung:
 Bei Problemen oder Verbesserungsvorschlägen steht LacyDev auf Discord gerne zur Verfügung (Discord: lacydev).
 
@@ -37,6 +39,7 @@ Run the script with:
 ⚠️ Notes
 The script has been tested exclusively on Debian 12. Its functionality on other operating systems cannot be guaranteed.
 The script’s version references may not always be up to date. If needed, you can adjust the version numbers by editing the file with a text editor.
+For the cloud server start function, the path and filename must be adjusted in the script. The default path is /home/minecraft. Please update these values accordingly to ensure proper functionality.
 
 📬 Support
 For issues or suggestions, feel free to contact LacyDev on Discord (Discord: lacydev).
